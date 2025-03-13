@@ -3,7 +3,12 @@ guid: 092136ac09e3ca14bb1260c6741e090c
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SidewalkMat
+    second: {fileID: 2100000, guid: 9f65a7bf9ce573f4281ce1a2e7cd0179, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
