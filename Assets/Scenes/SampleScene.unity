@@ -3302,15 +3302,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b10d7776761554789391f1e53a1fbb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x
-      value: 0.08
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b10d7776761554789391f1e53a1fbb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 82.908
+      value: 359
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 41b10d7776761554789391f1e53a1fbb, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
-      value: 0.152
+      value: -2
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 41b10d7776761554789391f1e53a1fbb, type: 3}
       propertyPath: m_Name
@@ -3834,6 +3834,14 @@ PlayableDirector:
     value: {fileID: 242664584}
   - key: {fileID: -5458464278811164710, guid: 0fe7b82ac197282408129fbf4204c38c, type: 2}
     value: {fileID: 242664584}
+  - key: {fileID: 4173473650700884761, guid: 0fe7b82ac197282408129fbf4204c38c, type: 2}
+    value: {fileID: 752362930}
+  - key: {fileID: -6977383031511106783, guid: 0fe7b82ac197282408129fbf4204c38c, type: 2}
+    value: {fileID: 752362930}
+  - key: {fileID: -4998654160724837998, guid: 0fe7b82ac197282408129fbf4204c38c, type: 2}
+    value: {fileID: 298665393}
+  - key: {fileID: -1034381070696153341, guid: 0fe7b82ac197282408129fbf4204c38c, type: 2}
+    value: {fileID: 298665393}
   m_ExposedReferences:
     m_References:
     - 0b5c500e962c7854ca26d1412224369e: {fileID: 234092956}
